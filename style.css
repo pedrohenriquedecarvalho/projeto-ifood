@@ -1,0 +1,87 @@
+@charset "utf-8";
+*{
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+main{
+    color: white;
+    
+    
+}
+h1{
+    text-align: center;
+   
+}
+#iemail{
+   
+    height: 30px;
+    width: 250px;
+    border-radius: 2px;
+}
+#isenha{
+    height: 30px;
+    width: 250px;
+    border-radius: 2px;
+   
+}
+div{
+    padding-bottom: 20px;
+}
+#ientrar{
+    height: 30px;
+    width: 250px;
+    border-radius: 2px;
+    color: red;
+   
+}
+form{
+    margin: auto;
+    padding-top: 80px;
+}
+#icone > input{
+    color: white;
+    font-size: 2em;
+    width: 40px;
+    padding: 5px;
+}
+#esqueciasenha{
+   
+    padding-left: 80px;
+}
+#icone {
+ 
+ position: absolute;
+ color: red;
+ padding-bottom: 10px;
+}
+
+
+#isenha{
+ 
+}
+#placeholder{
+    color: aqua;
+}
+#icone1{
+    position:absolute;
+    transform: translate(8% , 8%);
+    padding-right: 100px;
+}
+    
+
+
+span{
+      padding: 5px;
+      transform: translate(-5% , -5%);
+}
+
+
