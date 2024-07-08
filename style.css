@@ -72,7 +72,7 @@ form{
     position:absolute;
     transform: translate(8% , 8%);
     margin: auto;
-  margin-left: 50px;
+  margin-left: -550px;
  
 }
 input::placeholder{
