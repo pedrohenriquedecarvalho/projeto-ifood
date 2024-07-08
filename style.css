@@ -19,6 +19,7 @@ main{
 }
 h1{
     text-align: center;
+    position: relative;
    
 }
 #iemail{
@@ -74,7 +75,9 @@ form{
 #icone1{
     position:absolute;
     transform: translate(8% , 8%);
-    padding-right: 100px;
+    margin: auto;
+    margin-left: -60px;
+ 
 }
     
 
