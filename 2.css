@@ -5,7 +5,16 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        
+        width: 100vw;
+        height: 100vh;
        
+    }
+    #icone1{
+        position:absolute;
+        margin-left: -550px;
+     
+    }
+    h1{
+        position: relative;
     }
 }
